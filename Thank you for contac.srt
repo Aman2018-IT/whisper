@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,720
+Thank you for contacting us.
+
+2
+00:00:02,720 --> 00:00:05,280
+All lines are currently busy.
+
+3
+00:00:05,280 --> 00:00:07,200
+Your call is very important to us.
+
