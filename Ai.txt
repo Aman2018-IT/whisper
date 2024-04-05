@@ -1,0 +1,17 @@
+                Whisper by OpenAI
+   Two ways to use whisper 
+1.Entirely on cloud without installing anything on our local machine
+2.Installing whisper and related stuff on our PC
+
+
+
+
+       1.using Drive
+        open colabrotary in your Drive and install whiser in it , and now you can run your code on browser itself.
+
+       2.Installation 
+         *python
+         *pythorch
+         *chocolately
+         *use chocolately package manager to install ffmpeg to read different audio file
+         *whisper Ai
